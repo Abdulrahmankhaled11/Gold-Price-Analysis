@@ -6,3 +6,5 @@
 - Numpy
 - Pandas 
 - Matplotlib
+- seaborn
+- plotly 
